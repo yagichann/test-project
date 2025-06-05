@@ -1,1 +1,1 @@
-console.log("We Love Hedgehog")
+console.log("We Love HogeHoge")
