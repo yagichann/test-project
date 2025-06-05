@@ -1,1 +1,3 @@
-console.log("We Love Mini Hedgehogs!");
+
+console.log("We Love HogeHoge")
+
